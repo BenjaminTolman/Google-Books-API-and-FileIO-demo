@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Google Books Demo</string>
+    <string name="alert_dialog">Alert</string>
+    <string name="some_message">There is no connection. Please connect.</string>
+    <string name="close">Close</string>
+
+    <string-array name="queries">
+        <item>Android</item>
+        <item>Self Help</item>
+        <item>Programming</item>
+        <item>Gaming</item>
+        <item>Science</item>
+        <item>Karate</item>
+    </string-array>
+</resources>
